@@ -1,5 +1,5 @@
 This is vim sample txt file
-Adding new line
+Adding new line  3
 
 
 
