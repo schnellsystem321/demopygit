@@ -1,4 +1,5 @@
-this is vim sample txt file
+This is vim sample txt file
+Adding new line
 
 
 
